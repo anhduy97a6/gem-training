@@ -1,0 +1,1 @@
+(SELECT st.Name FROM StudentSubject ss JOIN Student st ON ss.RN = st.RN) y
